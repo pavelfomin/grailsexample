@@ -13,21 +13,4 @@ logs/
 .project
 .settings
 .springBeans
-src/.link_to_grails_plugins/
-src/target-eclipse/
-inlineplugins/externalserivces/.link_to_grails_plugins/
-inlineplugins/externalserivces/target-eclipse/
-
-# intellij project files and build artifacts...
-.idea
-*.iml
-*.ipr
-*.iws
-out/
-
-# osx turds...
-.DS_Store
-
-# misc...
-.vagrant
-*.box
+target-eclipse/
